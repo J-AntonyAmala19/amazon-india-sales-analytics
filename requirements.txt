@@ -1,0 +1,30 @@
+# Core Data Analysis Libraries
+pandas
+numpy
+
+# Visualization Libraries
+matplotlib
+seaborn==0.13.2
+plotly==5.24.0
+
+# Database Connectivity
+SQLAlchemy==2.0.34
+mysql-connector-python==9.0.0
+psycopg2-binary  # For PostgreSQL (optional)
+
+# Dashboard Development
+streamlit==1.38.0
+
+# Jupyter Notebook Support
+jupyter
+ipykernel
+# Utility Libraries
+python-dateutil
+requests
+
+# Optional: Geospatial Analysis (for maps)
+geopandas
+shapely
+
+# Optional: Machine Learning (for predictive analytics)
+scikit-learn
